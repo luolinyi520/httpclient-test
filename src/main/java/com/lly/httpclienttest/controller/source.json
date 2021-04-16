@@ -1,0 +1,137 @@
+{
+    "Success":true,
+    "Message":null,
+    "ErrorCode":0,
+    "ExceptionType":0,
+    "CoNumber":"NC202103210000312916",
+    "TaskIndex":1,
+    "Log_Id":0,
+    "Data":{
+        "WaybillNumber":"YT2108021272068789",
+        "TrackingNumber":"9261290289103857685122",
+        "TrackDetails":[
+            {
+                "ProcessDate":"2021-03-21T16:03:00",
+                "ProcessContent":"shipping label created, usps awaiting item",
+                "ProcessLocation":"",
+                "Country":"",
+                "State":"",
+                "City":"",
+                "ZipCode":"",
+                "ProcessStauts":100,
+                "TrackingCode":"GX"
+            },
+            {
+                "ProcessDate":"2021-03-29T11:44:00",
+                "ProcessContent":"arrived shipping partner facility, usps awaiting item",
+                "ProcessLocation":"NORTH LAS VEGAS, NV, 89032",
+                "Country":"",
+                "State":"NV",
+                "City":"NORTH LAS VEGAS",
+                "ZipCode":"89032",
+                "ProcessStauts":100,
+                "TrackingCode":"81"
+            },
+            {
+                "ProcessDate":"2021-03-29T14:35:00",
+                "ProcessContent":"departed shipping partner facility, usps awaiting item",
+                "ProcessLocation":"NORTH LAS VEGAS, NV, 89032",
+                "Country":"",
+                "State":"NV",
+                "City":"NORTH LAS VEGAS",
+                "ZipCode":"89032",
+                "ProcessStauts":100,
+                "TrackingCode":"82"
+            },
+            {
+                "ProcessDate":"2021-03-30T14:39:00",
+                "ProcessContent":"usps in possession of item",
+                "ProcessLocation":"IRVING, TX, 75059",
+                "Country":"",
+                "State":"TX",
+                "City":"IRVING",
+                "ZipCode":"75059",
+                "ProcessStauts":100,
+                "TrackingCode":"U1"
+            },
+            {
+                "ProcessDate":"2021-03-30T14:57:00",
+                "ProcessContent":"departed usps facility",
+                "ProcessLocation":"IRVING, TX, 75059",
+                "Country":"",
+                "State":"TX",
+                "City":"IRVING",
+                "ZipCode":"75059",
+                "ProcessStauts":100,
+                "TrackingCode":"T1"
+            },
+            {
+                "ProcessDate":"2021-03-30T15:44:00",
+                "ProcessContent":"arrived at usps regional facility",
+                "ProcessLocation":"FORT WORTH TX DISTRIBUTION CENTER",
+                "Country":"",
+                "State":"",
+                "City":"FORT WORTH TX DISTRIBUTION CENTER",
+                "ZipCode":"",
+                "ProcessStauts":100,
+                "TrackingCode":"A1"
+            },
+            {
+                "ProcessDate":"2021-03-30T16:05:00",
+                "ProcessContent":"processed at usps regional destination facility",
+                "ProcessLocation":"FORT WORTH TX DISTRIBUTION CENTER",
+                "Country":"",
+                "State":"",
+                "City":"FORT WORTH TX DISTRIBUTION CENTER",
+                "ZipCode":"",
+                "ProcessStauts":100,
+                "TrackingCode":"OD"
+            },
+            {
+                "ProcessDate":"2021-03-31T05:44:00",
+                "ProcessContent":"departed usps regional facility",
+                "ProcessLocation":"FORT WORTH TX DISTRIBUTION CENTER",
+                "Country":"",
+                "State":"",
+                "City":"FORT WORTH TX DISTRIBUTION CENTER",
+                "ZipCode":"",
+                "ProcessStauts":100,
+                "TrackingCode":"T1"
+            },
+            {
+                "ProcessDate":"2021-03-31T08:29:00",
+                "ProcessContent":"arrived at post office",
+                "ProcessLocation":"VENUS, TX, 76084",
+                "Country":"",
+                "State":"TX",
+                "City":"VENUS",
+                "ZipCode":"76084",
+                "ProcessStauts":100,
+                "TrackingCode":"07"
+            },
+            {
+                "ProcessDate":"2021-03-31T08:40:00",
+                "ProcessContent":"out for delivery",
+                "ProcessLocation":"VENUS, TX, 76084",
+                "Country":"",
+                "State":"TX",
+                "City":"VENUS",
+                "ZipCode":"76084",
+                "ProcessStauts":100,
+                "TrackingCode":"OF"
+            },
+            {
+                "ProcessDate":"2021-03-31T11:03:00",
+                "ProcessContent":"delivered, in/at mailbox",
+                "ProcessLocation":"VENUS, TX, 76084",
+                "Country":"",
+                "State":"TX",
+                "City":"VENUS",
+                "ZipCode":"76084",
+                "ProcessStauts":200,
+                "TrackingCode":"01"
+            }
+        ]
+    },
+    "Info":null
+}
